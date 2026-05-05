@@ -1,12 +1,28 @@
-## Hi there 👋
+## 品牌介绍
 
-<!--
+Lyshark 成立之初便聚焦网络安全、逆向分析、系统底层、渗透测试、二进制安全等前沿技术领域，是国内专注底层安全与技术开源的专业技术团队。
 
-**Here are some ideas to get you started:**
+团队长期致力于安全技术研究、开源工具开发、技术知识沉淀与行业人才培养，坚持技术自主、开源共享、深耕底层的发展理念，持续输出高质量技术文章、开源项目、实战教程与行业解决方案。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+我们不追逐表面热点，专注基础技术深耕，以扎实的技术功底、开放的开源精神，为个人开发者、安全从业者、高校科研团队及企业客户提供可靠的技术支撑与学习交流平台。
+
+## 业务方向
+
+ - 网络安全渗透测试与安全攻防研究
+ - 二进制逆向工程分析
+ - 内核开发、系统底层原理与漏洞研究
+ - 安全开源工具研发、脚本库与框架维护
+ - 技术文档编撰、系列教程与知识体系建设
+ - 企业安全定制化技术咨询与方案支持
+
+## 团队理念
+
+以专注、深耕、开源、分享为核心价值观坚持技术纯粹性，坚持开源免费精神致力于降低安全学习门槛，共建良性技术生态
+
+## 官方入口
+
+官方主页：https://www.lyshark.com
+
+## 开放合作
+
+欢迎技术交流、项目合作、开源共建、学习交流也欢迎同行大佬、技术爱好者一起交流成长，共同推动安全技术生态发展。
