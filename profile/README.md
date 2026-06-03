@@ -1,28 +1,23 @@
-## 品牌介绍
+## Brand Introduction
+Founded with a core focus on cutting-edge technical fields including security operation & maintenance, secure development, cybersecurity, reverse engineering and underlying system technologies, the brand is a professional Chinese technical team specializing in low-level security and open-source technology.
 
-品牌成立之初便聚焦安全运维、安全开发、网络安全、逆向分析、系统底层等前沿技术领域，是国内专注底层安全与技术开源的专业技术团队。
+The team has long been committed to cybersecurity research, open-source tool development, technical knowledge accumulation and industry talent cultivation. Adhering to the development philosophy of independent technology development, open-source sharing and in-depth research on underlying technologies, it consistently delivers high-quality technical articles, open-source projects, hands-on tutorials and industry-specific solutions.
 
-团队长期致力于安全技术研究、开源工具开发、技术知识沉淀与行业人才培养，坚持技术自主、开源共享、深耕底层的发展理念，持续输出高质量技术文章、开源项目、实战教程与行业解决方案。
+Rather than chasing fleeting industry fads, we concentrate on in-depth fundamental technology research. Rooted in solid technical capabilities and an open-source mindset, we deliver dependable technical support and a learning & communication platform for individual developers, cybersecurity practitioners, university research teams and enterprise clients.
 
-我们不追逐表面热点，专注基础技术深耕，以扎实的技术功底、开放的开源精神，为个人开发者、安全从业者、高校科研团队及企业客户提供可靠的技术支撑与学习交流平台。
+## Business Scope
+- Penetration testing and offensive & defensive cybersecurity research
+- Binary reverse engineering analysis
+- Kernel development, underlying system principle exploration and vulnerability research
+- R&D of open-source security tools, as well as maintenance of script libraries and technical frameworks
+- Compilation of technical documents, structured tutorials and systematic knowledge architecture
+- Customized technical consultation and solution services for enterprise cybersecurity
 
-## 业务方向
+## Team Philosophy
+Centered around the core values of concentration, in-depth research, open source and knowledge sharing, we uphold technical authenticity and the spirit of free open sourcing. We strive to lower the entry barrier for cybersecurity learning and build a sound industrial technical ecosystem.
 
- - 网络安全渗透测试与安全攻防研究
- - 二进制逆向工程分析
- - 内核开发、系统底层原理与漏洞研究
- - 安全开源工具研发、脚本库与框架维护
- - 技术文档编撰、系列教程与知识体系建设
- - 企业安全定制化技术咨询与方案支持
+## Official Portal
+Official Website: https://www.lyshark.com
 
-## 团队理念
-
-以专注、深耕、开源、分享为核心价值观坚持技术纯粹性，坚持开源免费精神致力于降低安全学习门槛，共建良性技术生态
-
-## 官方入口
-
-官方主页：https://www.lyshark.com
-
-## 开放合作
-
-欢迎技术交流、项目合作、开源共建、学习交流也欢迎同行大佬、技术爱好者一起交流成长，共同推动安全技术生态发展。
+## Open Cooperation
+We welcome technical exchanges, project partnerships and joint open-source development, as well as learning interactions. Fellow industry experts and tech enthusiasts are invited to communicate and grow alongside us to jointly advance the development of the cybersecurity technology ecosystem.
