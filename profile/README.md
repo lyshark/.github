@@ -18,6 +18,7 @@ Centered around the core values of concentration, in-depth research, open source
 
 ## Official Portal
 Official Website: https://www.lyshark.com
+Contact Email: admin@lyshark.com
 
 ## Open Cooperation
 We welcome technical exchanges, project partnerships and joint open-source development, as well as learning interactions. Fellow industry experts and tech enthusiasts are invited to communicate and grow alongside us to jointly advance the development of the cybersecurity technology ecosystem.
