@@ -25,3 +25,10 @@ Contact Email: admin@lyshark.com
 
 ## Open Cooperation
 We welcome technical exchanges, project partnerships and joint open-source development, as well as learning interactions. Fellow industry experts and tech enthusiasts are invited to communicate and grow alongside us to jointly advance the development of the cybersecurity technology ecosystem.
+
+## Copyright Introduction
+
+Copyright registration for all brand-related works is solely intended to guard against unfair infringing practices such as third parties maliciously registering copyrights to file counter-complaints and abusive rights claims, so as to ensure the stable operation and normal dissemination of the project.
+Upholding the core spirit of openness, sharing and open source inherent to the internet, this project warmly welcomes technical practitioners from all over the world to co-build and iteratively improve it. We look forward to refining technical solutions together with industry peers to jointly advance technological innovation and upgrade the industrial ecosystem.
+
+In addition, we sincerely welcome suggestions, feedback and optimization ideas from all parties. All reasonable comments will be carefully reviewed, promptly followed up and addressed, driving continuous iteration and improvement of the project.
