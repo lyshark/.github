@@ -1,4 +1,6 @@
-<img width="767" height="406" alt="about" src="https://github.com/user-attachments/assets/e5b628d8-19da-42bd-a62e-2d7e2eaadf62" />
+<div align=center>
+	<img width="767" height="406" alt="about" src="https://github.com/user-attachments/assets/e5b628d8-19da-42bd-a62e-2d7e2eaadf62" />
+</div>
 
 ## Brand Introduction
 Founded with a core focus on cutting-edge technical fields including security operation & maintenance, secure development, cybersecurity, reverse engineering and underlying system technologies, the brand is a professional Chinese technical team specializing in low-level security and open-source technology.
