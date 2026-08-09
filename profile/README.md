@@ -1,5 +1,5 @@
 <div align=center>
-	<img width="767" height="406" alt="about" src="https://github.com/user-attachments/assets/e5b628d8-19da-42bd-a62e-2d7e2eaadf62" />
+	<img width="767" height="406" alt="image" src="https://github.com/user-attachments/assets/575080ed-4a89-4e0a-bce2-7aa520b9f851" />
 </div>
 
 ## Brand Introduction
